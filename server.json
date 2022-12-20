@@ -13,7 +13,23 @@
             "description": "Hambúrguer",
             "type": "outcome",
             "category": "Alimentação",
-            "price": 60,
+            "price": 59.80,
+            "createdAt": "2022-07-29T19:30:44.505Z"
+        },
+        {
+            "id": 3,
+            "description": "Tênis",
+            "type": "outcome",
+            "category": "Vestuário",
+            "price": 350,
+            "createdAt": "2022-07-29T19:30:44.505Z"
+        },
+        {
+            "id": 4,
+            "description": "Desenvolvimento de sistema",
+            "type": "income",
+            "category": "Venda",
+            "price": 35000,
             "createdAt": "2022-07-29T19:30:44.505Z"
         }
     ]
