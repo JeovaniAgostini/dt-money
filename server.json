@@ -47,6 +47,14 @@
       "type": "income",
       "createdAt": "2023-01-23T22:28:27.735Z",
       "id": 6
+    },
+    {
+      "description": "ABC",
+      "price": 100,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-25T22:59:09.710Z",
+      "id": 7
     }
   ]
 }
